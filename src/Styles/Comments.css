@@ -1,0 +1,14 @@
+.comments{
+    font-family: "Bookman Old Style";
+}
+.comments ul{
+    list-style: none;
+}
+.user-name{
+    font-family: Arial;
+    font-weight: bold;
+}
+.comment{
+    color: #909090;
+
+}

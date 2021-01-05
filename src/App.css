@@ -1,0 +1,11 @@
+.App{
+    min-height: 100%;
+}
+
+.App.dark{
+background-color: black;
+}
+
+.App.light{
+    background-color: rgb(226, 226, 226);
+}

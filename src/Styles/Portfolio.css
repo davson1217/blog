@@ -1,0 +1,62 @@
+.parallax {
+    /* The image used */
+    background-image: url("../Media/wide.png");
+    /* Set a specific height */
+    min-height: 80vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card.portfolio{
+    padding: 20px;
+    background-color: #1f1f1f;
+    overflow-x: hidden;
+}
+
+.card.dark{
+    background-color: #1f1f1f;
+    color: #cccccc;
+}
+
+.card.light{
+    background-color: white;
+    color: #1f1f1f;
+}
+
+.intro,.profile, .languages, .contacts, .interests{
+    font-size: 18px;
+    font-family: "Bookman Old Style";
+    /*color: #cccccc;*/
+}
+.intro .image-wrap{
+    float: right;
+}
+.image-wrap img{
+    width:250px;
+    height:200px;
+    margin-left:15px;
+    float:right;
+    border-radius:10px
+}
+.text.dark{ color: rgba(183,202,177,0.5);}
+.text.light{color: rgba(4, 28, 2, 0.5)
+}
+
+@media screen and (max-width: 780px) {
+    .parallax{
+        /* The image used */
+        background-image: url("../Media/mobile.png");
+        /* Set a specific height */
+        min-height: 85vh;
+
+        /* Create the parallax scrolling effect */
+        background-attachment: fixed;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}

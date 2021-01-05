@@ -1,0 +1,30 @@
+.navigation{
+    width: 100%;
+    min-height: 85px;
+}
+.nav-menu{
+    margin-bottom: 5px;
+    padding: 10px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    font-family: Cambria;
+}
+.nav-menu.dark{
+    color: #e7e7e7;
+}
+.nav-menu.light{
+    background-color: white;
+    height: 100%;
+}
+.nav-menu.dark{
+    background-color: #13421e;
+    height: 100%;
+}
+.nav-menu div{
+    padding: 10px;
+    position: relative;
+    bottom: 5px;
+    font-size: 20px;
+    font-weight: bold;
+}

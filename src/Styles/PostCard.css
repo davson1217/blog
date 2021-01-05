@@ -1,0 +1,18 @@
+.card{
+    margin-bottom: 10px;
+}
+
+.card.dark{
+    background-color: #1f1f1f;
+    color: #cccccc;
+}
+.card.dark hr{
+    border-top: 1px solid #909090;
+}
+.write-comment form textarea{
+    width: 100%;
+    resize: none;
+    outline: none;
+    font-size: 15px;
+    font-family: Cambria;
+}
