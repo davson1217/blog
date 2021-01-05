@@ -152,7 +152,7 @@ const Blogs = [
         id: 7,
         date: "July 8th, 2018",
         title: 'Dunno what to do',
-        preview: 'Source from another static repository',
+        preview: "I get that we are being confronted a lot these days. Confronted with not knowing what's to come, who to trust, what to believe. What I have come to understand is that the key to facing confrontation is to face it head on.",
         body: (
             <p>
                 I get that we are being confronted a lot these days. Confronted with not knowing what's to come, who to trust, what to believe.
