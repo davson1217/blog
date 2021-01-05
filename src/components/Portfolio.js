@@ -17,8 +17,10 @@ const Portfolio = (props) =>{
         }, */
     ];
 
-    const classes = `card portfolio ${localStorage.getItem('theme')}`;
-    const textClasses = `text ${localStorage.getItem('theme')}`;
+    const theme =  props.Page.darkMode? 'dark' : 'light'
+
+    const classes = `card portfolio ${localStorage.getItem('theme') || theme}`;
+    const textClasses = `text ${localStorage.getItem('theme') || theme}`;
 
     return (
         <div className="">
@@ -130,7 +132,7 @@ const Portfolio = (props) =>{
 
 const MapState = state => {
     return {
-        // Page : state.Page,
+        Page : state.Page,
     }
 }
 
