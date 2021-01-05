@@ -31,7 +31,7 @@ const Portfolio = (props) =>{
                     <div className="intro">
                         <div className="p-2">
                             <img src={'profile.svg'} alt="career" width={50}/>
-                            <h3>About Mee</h3>
+                            <h3>About Me</h3>
                         </div>
                         To maintain consistency in my inclination towards life and goals, I strive for <u>balance</u> in both my personal and
                         career life as imbalance in one or the other creates vulnerability in both. At the core of my values, you'll find poise
