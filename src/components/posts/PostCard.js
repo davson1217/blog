@@ -38,7 +38,7 @@ const PostCard = (props) =>{
             <div className={"container"}>
                 <div className={classes}>
                     <div className="card-body">
-                        <small>20/07/2021</small>
+                        <small>{props.post.date}</small>
                         {/*<small>Norway</small>*/}
                         <h4 className="card-title">{props.post.title}</h4>
                         <p className="card-text">{props.post.body}</p>
