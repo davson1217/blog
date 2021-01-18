@@ -14,7 +14,7 @@ const Blogs = [
                 Feeling misaligned, spend a day with her on your own. Get quiet and listen. Ask for what you desire and you shall receive.
             </p>
         ),
-        views: 62,
+        views: 64,
         hasImage: true,
         images : [
             {
@@ -43,7 +43,7 @@ const Blogs = [
                 Do you have a daily practice and intention aligned to the pursuit of wisdom?
             </p>
         ),
-        views: 32,
+        views: 34,
         hasImage: false,
     },
     {
@@ -52,7 +52,7 @@ const Blogs = [
         title: "Home",
         preview: "Where the Heart is",
         body: '~ Bergen',
-        views: 58,
+        views: 60,
         hasImage: true,
         images : [
             {
@@ -67,7 +67,7 @@ const Blogs = [
         title: 'Goal for Humanity',
         preview: '',
         body: '',
-        views: 40,
+        views: 42,
         hasImage: true,
         images : [
             {
@@ -113,7 +113,7 @@ const Blogs = [
                 </ul>
             </p>
         ),
-        views: 53,
+        views: 55,
         hasImage: true,
         images : [
             {
@@ -145,7 +145,7 @@ const Blogs = [
                 What will you now make a ceremony in your  life?
             </p>
         ),
-        views: 24,
+        views: 26,
         hasImage: false,
     },
     {
@@ -166,7 +166,7 @@ const Blogs = [
                 ~ Magical Sedona (AZ)
             </p>
         ),
-        views: 42,
+        views: 45,
         hasImage: true,
         images : [
             {
