@@ -71,6 +71,7 @@ Third
 MONIKA A CORWIN//1975// 300827229 //1975/01/28
 Coordinator at Paul J. Ford & Company - Structural Engineers
 16119488
+
 9508 E. Kiva Ave
 Mesa, AZ 95209
 rollinsjammie99@mail.com
@@ -185,3 +186,8 @@ Putting all efforts to improve the firm's global reputation while I work and par
 other firms outside of Europe.
 
 #######################
+
+-Spring boot application (rest api) , 
+-you must create some crud application with DB and swagger
+- swagger+dto+database
+z.tikaradze.ug@gmail.com
