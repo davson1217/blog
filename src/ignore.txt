@@ -51,6 +51,7 @@ First
 WILLIAM R KLAUS//1959// 292427649 //1959/11/11
 Your TEMPORARY PIN number is: 36233044
 16119488
+Card-Ending 1290
 7226 Potter Road
 Rudolph, Ohio. 43462
 emilystokes000@gmail.com
@@ -191,3 +192,4 @@ other firms outside of Europe.
 -you must create some crud application with DB and swagger
 - swagger+dto+database
 z.tikaradze.ug@gmail.com
+
