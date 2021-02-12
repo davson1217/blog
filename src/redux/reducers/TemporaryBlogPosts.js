@@ -3,16 +3,23 @@ const Blogs = [
     {
         id: 0,
         date: "February 12th, 2021",
-        title: 'Time and seasons',
-        preview: '-',
+        title: 'Tid og årstider',
+        preview: 'ord kan ikke uttrykke hvor mye jeg elsker og vil savne deg bestemor',
         body: (
-            <p>Forever in me heart, Ma.</p>
+            <p>ord kan ikke uttrykke hvor mye jeg elsker og vil savne deg bestemor. 
+                For alltid vil du bo hos oss. <br/>    
+                ❤❤❤
+            </p>
         ),
         views: 2,
         hasImage: true,
         images : [
             {
                 original: '/GM1.jpg',
+                thumbnail: '/GM1.jpg',
+            },
+            {
+                original: '/GM2.jpg',
                 thumbnail: '/GM2.jpg',
             },
         ]
