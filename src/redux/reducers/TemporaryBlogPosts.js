@@ -1,6 +1,29 @@
 import React from 'react'
 const Blogs = [
     {
+        id: 0,
+        date: "September 18th, 2020",
+        title: 'Take it easy',
+        preview: 'Slow down. Take time to connect to your roots and the roots of the land you are on. \n' +
+            'We were designed to connect to all of the wisdom, healing, inspiration, vision, strength and clarity through Mother Nature. \n' +
+            'Feeling misaligned, spend a day with her on your own. Get quiet and listen. Ask for what you desire and you shall receive. ',
+        body: (
+            <p>
+                Slow down. Take time to connect to your roots and the roots of the land you are on. <br/><br/>
+                We were designed to connect to all of the wisdom, healing, inspiration, vision, strength and clarity through Mother Nature.
+                Feeling misaligned, spend a day with her on your own. Get quiet and listen. Ask for what you desire and you shall receive.
+            </p>
+        ),
+        views: 64,
+        hasImage: true,
+        images : [
+            {
+                original: '/easy.jpg',
+                thumbnail: '/easy.jpg',
+            },
+        ]
+    },
+    {
         id: 1,
         date: "September 18th, 2020",
         title: 'Take it easy',

@@ -22,14 +22,14 @@ const App = (props) =>{
   return (
       <div className={classes}>
           <Navigation mode={theme}/>
-            <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
+            {/* <div style={{display:'flex', justifyContent:'center', alignItems:'center'}}>
                 <h2>Site Under Maintenance ...</h2>
-            </div>
-           {/*<Switch>
+            </div> */}
+           <Switch>
                 <Route path={'/blog/:id'} component={Post}/>
                 <Route path={'/blog'} component={Blog}/>
                 <Route path={'/'} component={Portfolio}/>
-            </Switch>*/} 
+            </Switch> 
       </div>
   );
 }
